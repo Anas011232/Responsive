@@ -346,7 +346,33 @@ form input[type="text"],input[type="email"],textarea{
     .rr{
         margin-bottom: 20px;
     }
+    .item{
+        flex-direction: column;
+       padding: 0;
+       margin: 0;
+       width: 80vw;
+       
     
-   
+      
+
+       
+        
+        
+
+    }
+    a{
+        margin: 0;
+    }
+    nav{
+        
+        flex-direction: column;
+        align-items: start;
+        
+    }
+    li{
+        margin-top: 20px;
+        
+    }
+    
     
 }
